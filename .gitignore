@@ -39,7 +39,6 @@ android/.DS_Store
 *.log
 *.tmp
 *.swp
-*.lock
 .DS_Store
 
 # Web
