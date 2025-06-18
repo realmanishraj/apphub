@@ -1,0 +1,6 @@
+name: apphub
+description: Flutter Applications
+publish_to: 'none'
+
+environment:
+  sdk: ^3.6.0
